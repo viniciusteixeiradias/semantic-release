@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/viniciusteixeiradias/semantic-release/compare/v1.0.1...v1.1.0) (2023-12-18)
+
+
+### Features
+
+* **pencil:** add 'graphiteWidth' option ([635348d](https://github.com/viniciusteixeiradias/semantic-release/commit/635348db8b25237746a97fc695d5adc00db8f3c7))
+
 ## [1.0.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v1.0.0...v1.0.1) (2023-12-18)
 
 
