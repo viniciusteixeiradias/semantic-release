@@ -9,5 +9,6 @@ BREAKING CHANGE: The graphiteWidth option has been removed.
 The default graphite width of 10mm is always used for performance reasons.
 
 # Feature
-- chore: a
-- chore: b
+- chore: a # feature/a
+- chore: b (Finish PR with fix and no squash) # feature/ab
+- fix: abc (Finish PR without fix and no squash) #feature/abc
