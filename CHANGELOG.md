@@ -1,3 +1,10 @@
+## [2.0.4-feature-abcdef.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.3...v2.0.4-feature-abcdef.1) (2023-12-18)
+
+
+### Bug Fixes
+
+* abcdef ([d6c5675](https://github.com/viniciusteixeiradias/semantic-release/commit/d6c567554c59420f41f143a5bc0644d374215e55))
+
 ## [2.0.4-feature-abcde.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.3...v2.0.4-feature-abcde.1) (2023-12-18)
 
 
