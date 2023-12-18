@@ -1,3 +1,10 @@
+## [2.0.6-feature-abc01.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.5...v2.0.6-feature-abc01.1) (2023-12-18)
+
+
+### Bug Fixes
+
+* abc ([421388a](https://github.com/viniciusteixeiradias/semantic-release/commit/421388a54b6e587b3966e1a31056e3ef070ab6b6))
+
 ## [2.0.5](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.4...v2.0.5) (2023-12-18)
 
 
