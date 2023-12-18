@@ -1,3 +1,11 @@
+## [2.0.4](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.3...v2.0.4) (2023-12-18)
+
+
+### Bug Fixes
+
+* some bug ([#7](https://github.com/viniciusteixeiradias/semantic-release/issues/7)) ([8b92592](https://github.com/viniciusteixeiradias/semantic-release/commit/8b925925f36222c39bbf1c1a71d8a626be285bd5))
+* some bug ([#8](https://github.com/viniciusteixeiradias/semantic-release/issues/8)) ([a635332](https://github.com/viniciusteixeiradias/semantic-release/commit/a63533264fef26fbd2d89598d71481d4440d9f35))
+
 ## [2.0.4-feature-abcdefg.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.3...v2.0.4-feature-abcdefg.1) (2023-12-18)
 
 

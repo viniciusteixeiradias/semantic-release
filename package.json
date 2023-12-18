@@ -1,6 +1,6 @@
 {
   "name": "semantic-release",
-  "version": "2.0.4-feature-abcdefg.1",
+  "version": "2.0.4",
   "description": "",
   "main": "index.js",
   "private": true,
