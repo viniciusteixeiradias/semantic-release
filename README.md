@@ -16,4 +16,8 @@ The default graphite width of 10mm is always used for performance reasons.
 - fix: abcde (Finish PR without fix but with squash) #feature/abcde // Didnt call Action but should
 - fix: abcdef (Finish PR with fix and squash) #feature/abcdef // Didnt call Action but should
 - fix: abcdefg (Finish PR with fix, squash and customize squash message) #feature/abcdefg // Works fine
-- fix: abcdefg2 (Same, but change the default commit message for squash merging)
+- fix: abcdefg2 (Same, but change the default commit message for squash merging) // I'll try without npm plugin
+
+
+# Test
+- Without NPM plugin
