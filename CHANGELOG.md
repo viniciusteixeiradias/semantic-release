@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.0...v2.0.1) (2023-12-18)
+
+
+### Bug Fixes
+
+* some bug ([1c1201b](https://github.com/viniciusteixeiradias/semantic-release/commit/1c1201b654553cbdc514fe6804860cae6e3ba250))
+
 # [2.0.0](https://github.com/viniciusteixeiradias/semantic-release/compare/v1.1.0...v2.0.0) (2023-12-18)
 
 
