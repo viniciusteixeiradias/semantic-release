@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.4...v2.0.5) (2023-12-18)
+
+
+### Bug Fixes
+
+* abcdefg2 ([#9](https://github.com/viniciusteixeiradias/semantic-release/issues/9)) ([a5c65c6](https://github.com/viniciusteixeiradias/semantic-release/commit/a5c65c6eac63dd06311aea63177010088009f700))
+
 ## [2.0.5-feature-abcdefg2.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.4...v2.0.5-feature-abcdefg2.1) (2023-12-18)
 
 
