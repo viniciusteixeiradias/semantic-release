@@ -3,6 +3,10 @@ on:
   push:
     branches:
       - master
+      - dev/*
+      - feature/*
+      - hotfix/*
+      - release/*
 
 # permissions:
 #   contents: read # for checkout
