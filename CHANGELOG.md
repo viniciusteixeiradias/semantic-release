@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v1.0.0...v1.0.1) (2023-12-18)
+
+
+### Bug Fixes
+
+* **pencil:** stop graphite breaking when too much pressure applied ([66852a0](https://github.com/viniciusteixeiradias/semantic-release/commit/66852a080eacddd46ebec7c87b108da7bc118bb8))
+
 # 1.0.0 (2023-12-18)
 
 
