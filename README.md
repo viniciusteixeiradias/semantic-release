@@ -14,4 +14,5 @@ The default graphite width of 10mm is always used for performance reasons.
 - fix: abc (Finish PR without fix and no squash) #feature/abc // This has generated version but shouldnt
 - fix: abcd (Finish PR without fix and clear body, no squash) #feature/abcd // This has generated version but shouldnt
 - fix: abcde (Finish PR without fix but with squash) #feature/abcde // Didnt call Action but should
-- fix: abcdef (Finish PR with fix and squash) #feature/abcdef
+- fix: abcdef (Finish PR with fix and squash) #feature/abcdef // Didnt call Action but should
+- fix: abcdefg (Finish PR with fix, squash and customize squash message) #feature/abcdefg
