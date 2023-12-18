@@ -1,4 +1,4 @@
-# README.md.
+# README.md
 
 Test 01
 
