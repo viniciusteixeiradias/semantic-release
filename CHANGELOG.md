@@ -1,3 +1,10 @@
+## [2.0.6-feature-levi.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.5...v2.0.6-feature-levi.1) (2023-12-18)
+
+
+### Bug Fixes
+
+* abc ([#11](https://github.com/viniciusteixeiradias/semantic-release/issues/11)) ([f1fdede](https://github.com/viniciusteixeiradias/semantic-release/commit/f1fdede1c86cb3c471bcf40a2f59d8c7fb03c8cf))
+
 ## [2.0.6-feature-abc01.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.5...v2.0.6-feature-abc01.1) (2023-12-18)
 
 
