@@ -1,3 +1,10 @@
+## [2.0.7-feature-levi-03.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.6...v2.0.7-feature-levi-03.1) (2023-12-18)
+
+
+### Bug Fixes
+
+* any ([29e4c94](https://github.com/viniciusteixeiradias/semantic-release/commit/29e4c94b19888ad1010ef25b91478f388307c816))
+
 ## [2.0.6](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.5...v2.0.6) (2023-12-18)
 
 
