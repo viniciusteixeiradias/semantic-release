@@ -12,4 +12,5 @@ The default graphite width of 10mm is always used for performance reasons.
 - chore: a # feature/a
 - chore: b (Finish PR with fix and no squash) # feature/ab
 - fix: abc (Finish PR without fix and no squash) #feature/abc // This has generated version but shouldnt
-- fix: abcd (Finish PR without fix and clear body, no squash) #feature/abcd
+- fix: abcd (Finish PR without fix and clear body, no squash) #feature/abcd // This has generated version but shouldnt
+- fix: abcde (Finish PR without fix but with squash)
