@@ -9,6 +9,7 @@
   ],
   "branches": [
     "+([0-9])?(.{+([0-9]),x}).x",
-    "master"
+    "master",
+    { name: "feature/*", prerelease: true }
   ]
 }
