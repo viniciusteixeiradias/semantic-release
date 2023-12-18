@@ -10,6 +10,6 @@
   "branches": [
     "+([0-9])?(.{+([0-9]),x}).x",
     "master",
-    { name: "feature/*", prerelease: "${name.replace(/^feature\//g, 'feature-')}" }
+    { name: "feature/*", prerelease: "${name.replace(/^feature\\//, 'feature-')}" }
   ]
 }
