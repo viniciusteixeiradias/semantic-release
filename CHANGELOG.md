@@ -1,10 +1,13 @@
 ## [2.0.5-feature-no-npm-plugin.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.4...v2.0.5-feature-no-npm-plugin.1) (2023-12-18)
 
+### Bug Fixes
+* no npm plugin ([da527e5](https://github.com/viniciusteixeiradias/semantic-release/commit/da527e58987f0c9bd22db1f5693f5f29e54f355e))
+
+## [2.0.5](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.4...v2.0.5) (2023-12-18)
 
 ### Bug Fixes
 
 * abcdefg2 ([#9](https://github.com/viniciusteixeiradias/semantic-release/issues/9)) ([a5c65c6](https://github.com/viniciusteixeiradias/semantic-release/commit/a5c65c6eac63dd06311aea63177010088009f700))
-* no npm plugin ([da527e5](https://github.com/viniciusteixeiradias/semantic-release/commit/da527e58987f0c9bd22db1f5693f5f29e54f355e))
 
 ## [2.0.5-feature-abcdefg2.1](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.4...v2.0.5-feature-abcdefg2.1) (2023-12-18)
 
