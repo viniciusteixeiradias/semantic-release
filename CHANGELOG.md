@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/viniciusteixeiradias/semantic-release/compare/v1.1.0...v2.0.0) (2023-12-18)
+
+
+### Performance Improvements
+
+* **pencil:** remove graphiteWidth option ([7e8d48b](https://github.com/viniciusteixeiradias/semantic-release/commit/7e8d48b411604d79821e59419b5e518bd75d328c))
+
+
+### BREAKING CHANGES
+
+* **pencil:** The graphiteWidth option has been removed.
+The default graphite width of 10mm is always used for performance reasons.
+
 # [1.1.0](https://github.com/viniciusteixeiradias/semantic-release/compare/v1.0.1...v1.1.0) (2023-12-18)
 
 
