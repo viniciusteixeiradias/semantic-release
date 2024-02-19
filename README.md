@@ -20,3 +20,4 @@ The default graphite width of 10mm is always used for performance reasons.
 - refactor: feature/something
 - feat: a
 - chore: a
+- chore: b
