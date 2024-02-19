@@ -18,3 +18,4 @@ The default graphite width of 10mm is always used for performance reasons.
 - fix: abcdefg (Finish PR with fix, squash and customize squash message) #feature/abcdefg // Works fine
 - fix: abcdefg2 (Same, but change the default commit message for squash merging)
 - refactor: feature/something
+- feat: a
