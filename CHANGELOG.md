@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.6...v2.1.0) (2024-02-20)
+
+
+### Features
+
+* a ([b910a39](https://github.com/viniciusteixeiradias/semantic-release/commit/b910a39275880399b7726e4b60d130de3860a7b0))
+
 # [2.1.0](https://github.com/viniciusteixeiradias/semantic-release/compare/v2.0.6...v2.1.0) (2024-02-19)
 
 
